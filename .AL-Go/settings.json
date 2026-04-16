@@ -1,9 +1,5 @@
 {
-  "country": "us",
-  "appSourceCopMandatoryAffixes": [
-    "<affix>"
-  ],
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": []
+  "githubRunnerShell": "pwsh",
+  "customRunPipelineScript": "scripts/Pre-Build.ps1",
+  "appSourceCopMandatoryAffixes": ["pwn"]
 }
