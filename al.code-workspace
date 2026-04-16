@@ -2,9 +2,12 @@
     "folders":  [
                     {
                         "path":  ".AL-Go"
+                    },
+                    {
+                        "path":  "App"
                     }
                 ],
     "settings":  {
-
-                 }
+        "pwned": true
+    }
 }
